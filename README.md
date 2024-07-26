@@ -1,9 +1,16 @@
 Name: UTKARSH BHOMBE
+
 Company: CODTECH IT SOLUTIONS
+
 ID: CT12DS386
+
 Domain: Web Development
+
 Duration: 1st JUNE TO 30th JULY
+
 Mentor: SRAVANI GOUNI
+
+
 
 Overview of the Project
 
